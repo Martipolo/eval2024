@@ -6,4 +6,4 @@
 
 * Test unitaires somme de Steve non aboutis car erreur dans le code (voir commentaires au code)
 * Test unitaires pour turing OK
-* couverture du test (voir index de htmlcov)
+* couverture du test (steve 100 et turing 92 = total 96%)
