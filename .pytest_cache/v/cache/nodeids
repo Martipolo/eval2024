@@ -1,0 +1,8 @@
+[
+  "testu/test_devine_steve.py::test_decomposer",
+  "testu/test_devine_steve.py::test_divisible",
+  "testu/test_devine_steve.py::test_somme",
+  "testu/test_devine_turing.py::test_decomposer",
+  "testu/test_devine_turing.py::test_divisible",
+  "testu/test_devine_turing.py::test_somme"
+]
